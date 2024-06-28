@@ -4,3 +4,5 @@
 #### I love him because he first loved me
 ##### He sacrificed himself on the cross for me
 ###### He was cruxified, died and was buried, rose again on the 3rd day.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
